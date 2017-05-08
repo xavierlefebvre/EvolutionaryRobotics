@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="EvolutionaryRobotics" Database="" Version="10.0.0"/>
+<CodeLite_Workspace Name="EvolutionaryRobotics" Database="" Version="10.0.0">
+  <Project Name="GraphProject" Path="GraphProject/GraphProject.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="GraphProject" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="GraphProject" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
